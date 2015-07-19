@@ -1,0 +1,17 @@
+{
+  "name": "angulartest",
+  "version": "0.0.0",
+  "description": "angular test",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.7.13",
+    "gulp": "^3.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "private": true
+}

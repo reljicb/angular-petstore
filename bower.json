@@ -1,0 +1,24 @@
+{
+  "name": "angulartest",
+  "version": "0.0.0",
+  "authors": [
+    "Christian Wilkie <christian.wilkie@gmail.com>"
+  ],
+  "description": "angular test",
+  "main": "app.js",
+  "license": "MIT",
+  "homepage": "https://github.com/ChristianWilkie",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "~0.13.0",
+    "angular": "1.4.3",
+    "bootstrap": "~3.3.5",
+    "normalize.css": "~3.0.3"
+  }
+}
